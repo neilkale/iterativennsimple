@@ -1,0 +1,1 @@
+{"time": 299.94461488723755, "train_loss_per_epoch": 5.714285990352079e-06, "val_loss_per_epoch": 1.034310261408488e-05, "train_loss_vs_time": 5.714285990352079e-06, "val_loss_vs_time": 1.034310261408488e-05, "_timestamp": 1706882781.9363978, "_runtime": 303.3053557872772, "_step": 1092, "test_loss": 0.0008872455358505249, "num_parameters": 31600, "_wandb": {"runtime": 300}}

@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-02-02T14:16:55.997620",
+    "startedAt": "2024-02-02T14:16:53.561054",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "0.1",
+        "100000",
+        "600",
+        "100",
+        "0.001",
+        "25"
+    ],
+    "state": "running",
+    "program": "c:\\iterativennsimple\\scripts\\sparse_training_neil_wandb.py",
+    "codePath": "scripts\\sparse_training_neil_wandb.py",
+    "git": {
+        "remote": "https://github.com/rcpaffenroth/iterativennsimple.git",
+        "commit": "cfbcb915b7343fc17217d70ad1126ec0fd0e6dbf"
+    },
+    "email": "neil.kale@gmail.com",
+    "root": "C:/iterativennsimple",
+    "host": "DESKTOP-GA6ISSP",
+    "username": "neilk",
+    "executable": "C:\\Users\\neilk\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2803.0,
+        "min": 0.0,
+        "max": 2803.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2803.0,
+            "min": 0.0,
+            "max": 2803.0
+        }
+    ],
+    "disk": {
+        "total": 458.51659774780273,
+        "used": 390.8332176208496
+    },
+    "memory": {
+        "total": 15.713661193847656
+    }
+}
